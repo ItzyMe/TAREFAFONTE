@@ -1,0 +1,23 @@
+.header
+{
+    box-shadow: 5px  9px 10px rgb(243, 240, 166)41);
+    width:100%;
+    font-size: 25px;
+    padding: 10px;
+    margin:0px;
+}
+.rodape{
+    position:fixed;
+    color:rgb(251, 250, 250);
+    bottom:0;
+    width:100%;
+    background-color:#170a64;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    background-color: antiquewhite;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(245, 157, 113);
+}
